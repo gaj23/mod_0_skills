@@ -1,0 +1,9 @@
+var food = "popcorn";  
+var isDelicious = true;  
+food = "pad thai";  
+var num2 = 2;
+var num7 = 10;
+var quotient = num7 / num2;  
+var songs = ["With or Without You", "Beautiful Day", "I Still Haven't Found What I'm Looking For", "Sunday Bloody Sunday"];  
+songs.shift();  
+food.length
